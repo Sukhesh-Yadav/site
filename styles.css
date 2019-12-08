@@ -1,0 +1,114 @@
+body{
+  margin:0;
+  text-align: center;
+}
+h1{
+  font-family: 'Kaushan Script', cursive;
+  line-height: 2;
+  color: #66BFBF;
+  font-size: 60px;
+}
+h2{
+  font-family: 'Fondamento', cursive;
+  font-size: 40px;
+  color: #66BFBF;
+}
+h3{
+  font-family: 'Rancho', cursive;
+  font-size: 30px;
+  font-weight: normal;
+  color: #66BFBF;
+}
+p{
+  font-family: sans-serif;
+}
+hr{
+  border: dotted 6px;
+  border-bottom: none;
+  width:4%;
+  color:#EAF6F6;
+}
+table{
+  margin:0;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+tr{
+  padding: 0;
+}
+td{
+  padding:0;
+  position: relative;
+  right: 1px;
+}
+.sukhesh{
+  width: 200px;
+}
+.info{
+  font-family: fantasy;
+  font-weight: normal;
+  font-family: cursive;
+  color:#66BFBF;
+  font-size: 20px;
+}
+.top{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+.middlea{
+  padding-bottom: 60px;
+}
+.bottom{
+  background-color: #66BFBF;
+  padding:30px 0;
+}
+
+.tcloud{
+  position:absolute;
+  right: 430px;
+  top: 70px;
+}
+.bcloud{
+  position: absolute;
+  bottom: 300px;
+}
+.karate{
+  width: 200px;
+}
+.physics{
+  width: 200px;
+}
+a{
+  text-decoration: none;
+  font-family: sans-serif;
+  padding:0 20px;
+  line-height: 2;
+}
+ a:hover{
+  color: white;
+}
+.btn {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:21px;
+	border:2px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Verdana;
+	font-size:19px;
+	padding:12px 20px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.btn:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.btn:active {
+	position:relative;
+	top:1px;
+}
